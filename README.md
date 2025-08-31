@@ -32,4 +32,4 @@ project-root/
 - `npm run dev` to start the frontend app before that do npm install 
 - `docker-compose run -d ` to pull the mongo db , in my case mongo:latest is not executed due to format error, i preferred mongo:6
 
-- Sorry for my terrible ui design , i didnt work extensively on ui 
+- Sorry for my terrible ui design , i didnt work extensively on ui even chat gpt help me to do that 
